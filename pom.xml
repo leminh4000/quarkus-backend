@@ -6,6 +6,7 @@
   <artifactId>quarkus-backend</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <properties>
+      
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <maven.compiler.parameters>true</maven.compiler.parameters>
     <surefire-plugin.version>2.22.0</surefire-plugin.version>
